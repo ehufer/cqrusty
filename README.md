@@ -1,0 +1,2 @@
+# cqrusty
+CQRS/EventSourcing framework
